@@ -1,0 +1,23 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+#H{
+    background-color: aliceblue;
+    height: 60px;
+    width:100%;
+    top:0px;
+    position: fixed;
+}
+#F{
+    background-color: aliceblue;
+    height: 60px;
+    bottom:0px;
+    position: fixed;
+    width: 100%;
+    font-size:20px;
+}
+canvas{
+    background-color: aliceblue;
+    border: 10px;
+}
